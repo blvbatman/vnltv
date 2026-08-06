@@ -1,6 +1,10 @@
+
 #Disclaimer: Đây là link sưu tầm và tổng hợp trên tảng mạng xã hội, Admin(NguyenBatMan) không phải là tác giả của những list này,do đó không chịu trách nhiệm về bất cứ điều gì dưới mọi hình thức.
-#LAST UPDATED: 6/8/2026 | 18:14
+
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvbatman/VNLTV_LOGO/refs/heads/main/blv-bat.png" group-title="LAST UPDATED", 6/8/2026 - 20:50
+https://raw.githubusercontent.com/blvbatman/vnltv/refs/heads/main/intro.mp4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/VTV/VTV1.png" group-title="VTV", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/VTV/VTV2.png" group-title="VTV",VTV2
