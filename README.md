@@ -1,1 +1,26 @@
 # vnltv
+# YouTV: https://freem3u.xyz/api/live/play.m3u8?vid=31
+# HiTV: https://freem3u.xyz/api/live/play.m3u8?vid=32
+# DW: https://freem3u.xyz/api/live/play.m3u8?vid=109
+# NHK: https://freem3u.xyz/api/live/play.m3u8?vid=106
+# CNA: https://freem3u.xyz/api/live/play.m3u8?vid=112
+# On O2TV: https://freem3u.xyz/api/live/play.m3u8?vid=136
+# ON Cine: https://freem3u.xyz/api/live/play.m3u8?vid=176
+# On Drama: https://freem3u.xyz/api/live/play.m3u8?vid=177
+# On Bibi: https://freem3u.xyz/api/live/play.m3u8?vid=178
+# On Kids: https://freem3u.xyz/api/live/play.m3u8?vid=179
+# On movie: https://freem3u.xyz/api/live/play.m3u8?vid=181
+# On e channel: https://freem3u.xyz/api/live/play.m3u8?vid=182
+# On style:https://freem3u.xyz/api/live/play.m3u8?vid=184
+# On music: https://freem3u.xyz/api/live/play.m3u8?vid=185
+# On trending: https://freem3u.xyz/api/live/play.m3u8?vid=186
+# On Vfamily: https://freem3u.xyz/api/live/play.m3u8?vid=187
+# On life:https://freem3u.xyz/api/live/play.m3u8?vid=188
+# On info:https://freem3u.xyz/api/live/play.m3u8?vid=189
+# On Vie Giải Trí:https://freem3u.xyz/api/live/play.m3u8?vid=180
+# SCTV2: https://freem3u.xyz/api/live/play.m3u8?vid=201
+# KBS: https://freem3u.xyz/api/live/play.m3u8?vid=213
+# Hình như là: Da vinci: https://freem3u.xyz/api/live/play.m3u8?vid=214
+# AFN: https://freem3u.xyz/api/live/play.m3u8?vid=215
+# Outdoor:https://freem3u.xyz/api/live/play.m3u8?vid=216
+# SCTV6:https://freem3u.xyz/api/live/play.m3u8?vid=232
