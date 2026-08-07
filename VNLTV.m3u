@@ -12,9 +12,9 @@ https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/VTV/VTV3.png" group-title="VTV",VTV3
 https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/VTV/VTV4.png" group-title="VTV",VTV4
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=108
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/VTV/VTV5.png" group-title="VTV",VTV5
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=110
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/VTV/VTV5-TayNamBo.png" group-title="VTV",VTV5 Tây Nam Bộ
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/VTV/VTV5-TayNguyen.png" group-title="VTV",VTV5 Tây Nguyên
@@ -181,6 +181,8 @@ https://raw.githubusercontent.com/thcoban/thvn/main/viechannelhtv2hd.m3u8
 https://raw.githubusercontent.com/thcoban/thvn/main/htv3.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV4 Key
 https://raw.githubusercontent.com/thcoban/thvn/main/htvkey.m3u8
+EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV5 Bchannel
+https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7 
 https://raw.githubusercontent.com/thcoban/thvn/main/htv7hd.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/2ZPoayk.png" , HTV9
@@ -194,10 +196,10 @@ https://raw.githubusercontent.com/thcoban/thvn/main/htvkey.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvcplus.png", HTVC Plus HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=132
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvcdulichcuocsong.png", HTVC Du Lịch HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=133
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvccanhac.png", HTVC Ca Nhạc HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://freem3u.xyz/api/live/play.m3u8?vid=14
@@ -740,5 +742,28 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
 
-#YouTV:https://freem3u.xyz/api/live/play.m3u8?vid=31
-HiTV:https://freem3u.xyz/api/live/play.m3u8?vid=32
+#YouTV: https://freem3u.xyz/api/live/play.m3u8?vid=31
+#HiTV: https://freem3u.xyz/api/live/play.m3u8?vid=32
+#DW: https://freem3u.xyz/api/live/play.m3u8?vid=109
+#NHK: https://freem3u.xyz/api/live/play.m3u8?vid=106
+#CNA: https://freem3u.xyz/api/live/play.m3u8?vid=112
+#On O2TV: https://freem3u.xyz/api/live/play.m3u8?vid=136
+#ON Cine: https://freem3u.xyz/api/live/play.m3u8?vid=176
+#On Drama: https://freem3u.xyz/api/live/play.m3u8?vid=177
+#On Bibi: https://freem3u.xyz/api/live/play.m3u8?vid=178
+#On Kids: https://freem3u.xyz/api/live/play.m3u8?vid=179
+#On movie: https://freem3u.xyz/api/live/play.m3u8?vid=181
+#On e channel: https://freem3u.xyz/api/live/play.m3u8?vid=182
+#On style:https://freem3u.xyz/api/live/play.m3u8?vid=184
+#On music: https://freem3u.xyz/api/live/play.m3u8?vid=185
+#On trending: https://freem3u.xyz/api/live/play.m3u8?vid=186
+#On Vfamily: https://freem3u.xyz/api/live/play.m3u8?vid=187
+#On life:https://freem3u.xyz/api/live/play.m3u8?vid=188
+#On info:https://freem3u.xyz/api/live/play.m3u8?vid=189
+#On Vie Giải Trí:https://freem3u.xyz/api/live/play.m3u8?vid=180
+#SCTV2: https://freem3u.xyz/api/live/play.m3u8?vid=201
+#KBS: https://freem3u.xyz/api/live/play.m3u8?vid=213
+#Hình như là: Da vinci: https://freem3u.xyz/api/live/play.m3u8?vid=214
+#AFN: https://freem3u.xyz/api/live/play.m3u8?vid=215
+#Outdoor:https://freem3u.xyz/api/live/play.m3u8?vid=216
+#SCTV6:https://freem3u.xyz/api/live/play.m3u8?vid=232
