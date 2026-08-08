@@ -1,0 +1,5 @@
+#EXTINF:-1 group-title="Movistar Plus",Movistar Baloncesto 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=657f620885f04ed793212b21f2044f0b:d93318f9cbc0d9aae4630a5c21e0aecf
+http://3mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
