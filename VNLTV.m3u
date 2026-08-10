@@ -234,7 +234,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd
 #EXTINF:-1 tvg-id="SCTV5.vn" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/SCTV/SCTV5.png", SCTV5
-https://vtvgolive-sctv.vtvdigital.vn/ZlNwVMd0yObwloh4JHFrdw/1785391825/5m63a995d8vtvsctv/5/index.m3u8
+https://vietanhtv.id.vn/sctv/proxy.php/https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/NBbIkosvinh0wDPThC_ngA/1788921629/PI8HI3T/live/hls/sctv5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/SCTV/SCTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/SCTV/SCTV7.png", SCTV7
