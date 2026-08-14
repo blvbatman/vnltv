@@ -1,20 +1,5 @@
-#EXTINF:-1 group-title="Movistar Plus",Movistar Baloncesto 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=657f620885f04ed793212b21f2044f0b:d93318f9cbc0d9aae4630a5c21e0aecf
-http://3mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
-#EXTINF:-1 group-title="DirecTV",TNT Sports arg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15876189db3d34b5a6aa792b71de698c:f179fe214afd143c03ea5e19e715e2ff
-https://1233-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1233/1233_TNT_SPORTS_ARG_DASH/manifest.mpd
-#EXTINF:-1 group-title="Montecable",Dsports 2 - Uruguay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0bbfc1d5cf143f9bb0042c2be9c4a4c:f95925007220fea249038ac6523c5c7b
-https://mcbold.mcgolive.com.uy/DSPORTS_2_HD/DSPORTS_2_HD_MC.isml/DSPORTS_2_HD.mpd
-#EXTINF:-1 group-title="DGO",Dsports UY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d07dd2d8456e3b59acf9ae00379b8bfa:5d75d58fac3ba91e20a024b268ac964f
-https://1062-aws-da-mt.vrioott.com/1062_DIRECTV_SPORTS_URU_DASH/manifest.mpd
+#EXTINF:-1 group-title="自定义分组" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",AstroPL
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 
+https://load.perfecttv.net/mpd/epl1/manifest.mpd
